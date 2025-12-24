@@ -15,7 +15,7 @@ Veri setindeki `Yıl`, `Kilometre`, `Vites Tipi` ve `Yakıt Tipi` gibi özellikl
 * **Veri Temizliği:** Aykırı değerler (Outliers) IQR ve Quantile yöntemleriyle temizlendi.
 * **Özellik Dönüşümü:** Kategorik veriler (Vites, Yakıt) sayısal verilere (Encoding) dönüştürüldü.
 * **Model Başarısı:** Model, mevcut verilerle **%45** civarında bir R² skoru elde etmiştir.
-    * *Not:* Başarının bu seviyede kalmasının temel nedeni, veri setinde 'Marka/Model' bilgisinin modele dahil edilmemiş olmasıdır. İleriki versiyonlarda bu özellik eklendiğinde başarının artması beklenmektedir.
+    * *Not:* Başarının bu seviyede kalmasının temel nedeni, veri setinde 'Marka/Model' bilgisinin modele dahil edilmemiş olmasıdır. İlerde oluşturulacak versiyonlarda bu özellik eklendiğinde başarının artması beklenmektedir.
 
 ## 🚀 Gelecek Hedefleri (v2.0)
 * Marka ve Model sütunlarının analize dahil edilmesi.
