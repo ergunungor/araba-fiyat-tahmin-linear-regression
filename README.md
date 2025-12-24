@@ -21,5 +21,10 @@ Veri setindeki `Yıl`, `Kilometre`, `Vites Tipi` ve `Yakıt Tipi` gibi özellikl
 * Marka ve Model sütunlarının analize dahil edilmesi.
 * Random Forest veya XGBoost gibi daha gelişmiş modellerin denenmesi.
 
+## 📊 Analiz Sonuçları (Güncelleme v1.1)
+* **Marka Puanlama:** Markalar lüks/ekonomik algısına göre 4 farklı segmente ayrıldı ve puanlandı (Feature Engineering).
+* **Başarı Artışı:** Bu yeni özelliğin eklenmesiyle modelin R² skoru **%45'ten %59.12'ye** yükselmiştir.
+* **Gözlem:** Marka bilgisinin fiyat üzerindeki etkisi, Kilometre bilgisinden çok daha belirleyici çıkmıştır.
+
 ---
 *Bu proje Ergün Üngör tarafından geliştirilmiştir.*
